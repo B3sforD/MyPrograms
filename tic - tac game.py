@@ -81,7 +81,5 @@ for turn in range(1, 10):
         print('Ничья!')
         break
 
-
-
 draw_area()
 check_winner()
